@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="NixOS to Android Ecosystem">
+  <rect width="900" height="220" rx="28" fill="#19120f" stroke="#5d493e" stroke-width="1.5"/>
+
+  <!-- Top bridge bar -->
+  <rect x="28" y="22" width="240" height="44" rx="18" fill="#703510" stroke="#5d493e"/>
+  <text x="148" y="42" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="800" fill="#ffdbcb">NixOS 26.11 Host</text>
+  <text x="148" y="57" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="10.5" fill="#ddc8bb">Hyprland · Quickshell · Rust</text>
+
+  <line x1="274" y1="44" x2="626" y2="44" stroke="#ffb68e" stroke-width="2" stroke-dasharray="5,5"/>
+  <rect x="336" y="29" width="228" height="30" rx="15" fill="#2c211c" stroke="#5d493e"/>
+  <text x="450" y="48" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="11.5" font-weight="700" fill="#ffb68e">LAN / USB / Tailscale (tailscale0)</text>
+
+  <rect x="632" y="22" width="240" height="44" rx="18" fill="#4d4623" stroke="#5d493e"/>
+  <text x="752" y="42" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="800" fill="#f7edaf">Android (Pixel 9a)</text>
+  <text x="752" y="57" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="10.5" fill="#ddc8bb">120Hz OLED · 3DoF · KMP</text>
+
+  <!-- 4 Pillar Cards -->
+  <rect x="28" y="84" width="198" height="112" rx="22" fill="#241a16" stroke="#5d493e"/>
+  <text x="44" y="110" font-family="ui-monospace, Menlo, monospace" font-size="10.5" font-weight="700" fill="#ffb68e">DISPLAY &amp; VR</text>
+  <text x="44" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="800" fill="#f4e8e0">VRCast 3DoF</text>
+  <text x="44" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#ddc8bb">Hyprland UV-Atlas +</text>
+  <text x="44" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#ddc8bb">OpenGL ES 3.0 @ 120Hz</text>
+
+  <rect x="242" y="84" width="198" height="112" rx="22" fill="#241a16" stroke="#5d493e"/>
+  <text x="258" y="110" font-family="ui-monospace, Menlo, monospace" font-size="10.5" font-weight="700" fill="#ffb68e">AUDIO BRIDGE</text>
+  <text x="258" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="800" fill="#f4e8e0">SoundDrift</text>
+  <text x="258" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#ddc8bb">Low-latency bidirectional</text>
+  <text x="258" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#ddc8bb">audio (Kotlin + Rust)</text>
+
+  <rect x="456" y="84" width="198" height="112" rx="22" fill="#241a16" stroke="#5d493e"/>
+  <text x="472" y="110" font-family="ui-monospace, Menlo, monospace" font-size="10.5" font-weight="700" fill="#ffb68e">FILE TRANSFER</text>
+  <text x="472" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="800" fill="#f4e8e0">Share (Compartir)</text>
+  <text x="472" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#ddc8bb">Rust Tokio daemon +</text>
+  <text x="472" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#ddc8bb">Nautilus &amp; Android SAF</text>
+
+  <rect x="670" y="84" width="202" height="112" rx="22" fill="#241a16" stroke="#5d493e"/>
+  <text x="686" y="110" font-family="ui-monospace, Menlo, monospace" font-size="10.5" font-weight="700" fill="#ffb68e">OS-WIDE AI</text>
+  <text x="686" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="800" fill="#f4e8e0">Agi Desktop Orbs</text>
+  <text x="686" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#ddc8bb">Quickshell QML +</text>
+  <text x="686" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" fill="#ddc8bb">Nautilus file assistant</text>
+</svg>

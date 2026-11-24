@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="900" height="260" role="img" aria-label="Julián Flórez — Systems Engineer">
+  <rect width="900" height="260" rx="28" fill="#fdf1eb" stroke="#d8c2b7" stroke-width="1.5"/>
+  <!-- Decorative M3 Expressive organic shapes -->
+  <circle cx="810" cy="60" r="95" fill="#ffdbcb" opacity="0.65"/>
+  <circle cx="755" cy="195" r="55" fill="#fbdccb" opacity="0.7"/>
+  <rect x="740" y="105" width="110" height="110" rx="32" transform="rotate(14 795 160)" fill="#9c4110" opacity="0.10"/>
+
+  <!-- Top badge pill -->
+  <rect x="44" y="34" width="278" height="30" rx="15" fill="#ffdbcb" stroke="#d8c2b7" stroke-width="1"/>
+  <circle cx="62" cy="49" r="4.5" fill="#9c4110"/>
+  <text x="76" y="53.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#341100">Systems Engineer · Universidad EAN</text>
+
+  <!-- Main Heading -->
+  <text x="44" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="44" font-weight="800" letter-spacing="-1" fill="#231915">Julián Flórez</text>
+
+  <!-- Tagline -->
+  <text x="44" y="152" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18.5" font-weight="500" fill="#53433b">I build software that connects <tspan font-weight="700" fill="#9c4110">devices, tools and people</tspan>.</text>
+  <text x="44" y="177" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" fill="#53433b">Android / KMP · NixOS &amp; Hyprland · Agentic AI Engineering</text>
+
+  <!-- Focus Pills -->
+  <rect x="44" y="198" width="166" height="32" rx="16" fill="#9c4110"/>
+  <text x="127" y="218.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#ffffff">Agentic AI Workflows</text>
+
+  <rect x="220" y="198" width="150" height="32" rx="16" fill="#ffffff" stroke="#d8c2b7" stroke-width="1"/>
+  <text x="295" y="218.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#231915">NixOS ↔ Android</text>
+
+  <rect x="380" y="198" width="168" height="32" rx="16" fill="#ffffff" stroke="#d8c2b7" stroke-width="1"/>
+  <text x="464" y="218.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="700" fill="#231915">Kotlin Multiplatform</text>
+
+  <rect x="558" y="198" width="152" height="32" rx="16" fill="#efe58c"/>
+  <text x="634" y="218.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="700" fill="#1f1c00">julian-florez.github.io</text>
+</svg>
